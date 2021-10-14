@@ -1,0 +1,185 @@
+nav#navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+#navbar svg {
+    fill: red;
+    height: 4em;
+}
+
+body {
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/45e6f443-8eff-4c7b-ba24-fbdc84c37718/5b3dc438-336f-4188-a501-abac8738892b/FR-fr-20210927-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    margin: 0px;
+    height: 75vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+#shadow {
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+
+#logo {
+    padding-left: 3%;
+    padding-top: 1%;
+    width: 18vh;
+}
+
+.container .sahdow .navbar .right .language option {
+    background-color:white;
+}
+
+.container .navbar .right button {
+    background: ;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    font-weight: 350;
+    font-size: 15px;
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+
+.language {
+    margin: auto;
+    margin-right: 15px;
+    margin-top: 30px;
+    margin-left: 40px;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    padding: 10px 18px;
+    color: white; 
+    background: none;
+    font-size: 0.900rem;
+    cursor: pointer;
+    border: 1px solid gray;
+   
+
+}
+
+
+
+/*============================================= Titre ===================================== */
+
+.title{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    margin-top: 8%;
+    font-weight: 800;
+    font-size: 500%;
+    height: 125px;
+    font-family: Helvetica, sans-serif;
+    margin: auto;
+    font-size: 4.5rem;
+    text-align: center;
+    padding: 80px 50px;
+    
+}
+
+h2{
+    height: 2px;
+    margin: auto;
+    font-size: 1.6rem;
+    text-align: center;
+    height: 50px;
+    
+}
+
+h3{
+    font-size: 1.5rem;
+    margin: 19px;
+    text-align: center;
+    
+}
+
+/*============================================ E-mail + bouton =================================== */
+
+#e-mail{
+    display: flex;
+    justify-content: center;
+    height: 50%;
+    cursor: context-menu;
+}
+
+
+.e-mail  #button2 {
+    margin: auto;
+    height: 60px;
+    width: 180px;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    padding: 7px 17px;
+    background: #e50914;
+    cursor: pointer;
+    outline: none;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border: none;
+    background-position: center;
+    float: center;
+}
+
+
+/*=========================================== Ligne 1 =================================== */
+
+.ligne1{
+    border-bottom: 3px red;
+}
+
+div {
+    display: block;
+    border-bottom: 8px solid darkgrey;
+}
+
+
+/*==========================================================Seconde partie======================================*/
+
+.our-story-card-img {
+    width: 640px;
+    height: 480px;
+    position: relative;
+    
+}
+}
+
+.video {
+    position: absolute;
+    left: 50% ;
+    display: flex;
+    position: absolute;
+    margin-top: -24.3em;
+    width: 150px;
+    height: 250px;
+    margin-left: 4em;
+    margin-top: -23.9em;
+    margin-right: 
+    
+}
+
+.title2 {
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    color: white;
+}
+
+h4 {
+    display: flex;
+    float: left;
+    padding: 80px 50px;
+       
+}
+
